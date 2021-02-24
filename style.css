@@ -1,0 +1,25 @@
+body{
+    width: 960px;
+    margin: 20px auto;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 18px;
+}
+
+
+aside{
+    width: 200px;
+    float:left;
+}
+section{
+    width: 760px;
+    float: left;
+    padding: 0 8px;
+    box-sizing:border-box;
+}
+
+table, td{
+    border: solid black 2px;
+}
+td{
+    padding: 4px;
+}
